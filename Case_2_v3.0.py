@@ -110,7 +110,7 @@ results_df.head()
 # In[22]:
 
 
-whos
+
 
 
 # In[23]:
