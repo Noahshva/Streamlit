@@ -1,4 +1,2 @@
 matplotlib==3.4.3
-package-one==1.9.4
-package-two==3.7.1
-package-three==1.0.1
+
